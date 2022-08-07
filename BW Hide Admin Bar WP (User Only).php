@@ -3,7 +3,7 @@
 /*
 
 Plugin Name: BW Hide Admin Bar WP (User Only)
-Plugin URI: https://www.berbakti.com/plugin-wordpress/bw-hide-admin-bar-wp
+Plugin URI: https://www.berbakti.com/bw-hide-admin-bar-wp-for-user-only/
 Description: BW Hide Admin Bar WP is a plugin that has the ability to hide the appearance of the WordPress Admin Bar. The existence of this plugin makes it easy for WordPress users to hide the Admin Bar, whether all users or WP administrators are made an exception.
 Version: 1.0.0
 Author: Berbakti Webhoster
