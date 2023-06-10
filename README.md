@@ -8,7 +8,7 @@ Plugin URI: https://www.berbakti.com/<br>
 Version: 1.0.0<br>
 Author: Berbakti Hoster<br>
 Author URI: https://www.berbakti.com/<br>
-Donation URI: https://www.berbakti.com/donation/<br>
+Donation URI: https://www.fajarpos.com/kontak/<br>
 Development URI: https://www.fajarpos.com/<br>
 License: GPL-3.0 license<br>
 License URI: https://github.com/syauqiberbakti/BW-Hide-Admin-Bar-WP-User-Only/blob/main/LICENSE
